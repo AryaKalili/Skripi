@@ -1,2 +1,2 @@
-# Skripi
-My Skripsi Apps
+# Skripsi
+Repo For Skripsi
